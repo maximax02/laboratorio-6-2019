@@ -1,6 +1,8 @@
 #ifndef COMENTARIO_H
 #define COMENTARIO_H
 
+// preuba
+
 class Comentario {
 
 private:
